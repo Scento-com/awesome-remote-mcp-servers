@@ -2102,6 +2102,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Rootr](https://rootr.io) `https://rootr.io/mcp`
   [![Rootr MCP connector](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.inspirio-co/rootr-cli)
   🔐 - Read, search and write team docs, tables, issues and CRM records, with answers citing their source.
+- [Scento Perfume Compendium](https://www.scento.com/developers) `https://www.scento.com/mcp`
+  [![Scento Perfume Compendium MCP connector](https://glama.ai/mcp/connectors/com.scento/perfume-compendium/badges/score.svg)](https://glama.ai/mcp/connectors/com.scento/perfume-compendium)
+  🔓 - Perfume portraits, raw materials, scent pairings and occasion edits, with a scento.com page on every answer.
 - [Sensefold](https://sensefold.app/for-agents) `https://api.sensefold.app/mcp`
   [![Sensefold MCP connector](https://glama.ai/mcp/connectors/app.sensefold/sensefold/badges/score.svg)](https://glama.ai/mcp/connectors/app.sensefold/sensefold)
   🔐 - Search, read and write your saved articles, threads, PDFs, notes and AI chats as Markdown.
